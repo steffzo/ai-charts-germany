@@ -33,6 +33,8 @@ Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bis
 
 1. [Ain't Got a Nickel Ain't Got a Dime](https://suno.com/s/14QuI6TlH3qJcVCG) [Soul]
 2. [Wildfire](https://suno.com/s/0TjoK1Umgyg3bxEs) [Dance]
-3. [Egomaniac](https://suno.com/s/awpH23ehnLYpj5PW)[Dance]
-4. [Das wird teuer](https://suno.com/s/DPCmiOHrExnWhW58)[Dance]
-5. [Moth Among the Stars](https://suno.com/s/w1yvWb7vfeZFK5QP)[Dubstep]
+3. [Egomaniac](https://suno.com/s/awpH23ehnLYpj5PW) [Dance]
+4. [Das wird teuer](https://suno.com/s/DPCmiOHrExnWhW58) [Dance]
+5. [Moth Among the Stars](https://suno.com/s/w1yvWb7vfeZFK5QP) [Dubstep]
+6. [Thondaria](https://suno.com/s/hPsUupjgglsP1CuB) [Funk]
+7. [Just imagine](https://suno.com/s/O935Jqz2JaEV1Bgi) [Dance]
