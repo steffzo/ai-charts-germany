@@ -9,7 +9,9 @@ Wenn man auf die Portale der KI-Song-Anbieter wie z.B. Suno und Udio, aber auch 
 
 erstellt wurden.
 
-Diese Liste soll dem entgegen stehen:
+Es wird immer schwieriger, die wirklichen Perlen aus der flut an KI-generiereten Songs zu finden. Dazu braucht es Menschen, die sich diese Songs wirklich anhören und diese ehrlich bewerten, ohne Einfluss durch Netzwerke oder Redaktionen.
+
+Diese Liste soll dabei helfen:
 
 - Der Song steht im Mittelpunkt
 - Die Einschätzung erfolgt durch die Hörer (da GitHub bei der Anmeldung entsprechend prüft)
