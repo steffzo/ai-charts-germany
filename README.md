@@ -23,7 +23,7 @@ Die mit den meisten Einträgen / Votes wandern dann automatisch nach oben. Die T
 Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bist gerne eingeladen, diese Songs selbst zu bewerten oder eigene vorzuschlagen.
 
 ## Regeln 
-Es sind nur KI generierte Songs zugelassen.
-Die Songs, die du postest müssen dir gefallen :-)
+1. Es sind nur KI generierte Songs zugelassen.
+2. Die Songs, die du postest müssen dir gefallen :-)
 
 ## Charts 
