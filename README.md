@@ -24,6 +24,7 @@ Zu Beginn habe ich selbst ein paar Songs gepostet, um Beispiele zu haben. Du bis
 
 ## Regeln 
 1. Es sind nur KI generierte Songs zugelassen.
-2. Die Songs, die du postest müssen dir gefallen :-)
+2. Die Songs, die du postest, müssen dir wirklich gefallen :-)
+3. Spaß haben
 
 ## Charts 
